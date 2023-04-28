@@ -2,7 +2,7 @@
 
 This repository contains the slides for the presentation on [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) at [Deep Learning: Classics and Trends, ML Collective](https://mlcollective.org/dlct/).
 
-Talk link: https://www.youtube.com/watch?v=r8NdSe1cAeU (usually not recorded).
+💻 Talk link: https://www.youtube.com/watch?v=r8NdSe1cAeU (usually not recorded).
 
 If you find these slides useful, please consider citing:
 
